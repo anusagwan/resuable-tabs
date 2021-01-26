@@ -1,0 +1,38 @@
+.App {
+  margin: 0 auto;
+}
+.container {
+  font-family: arial;
+  background: transparent;
+  margin: 0 auto;
+  margin-top: 15vh;
+  height: 35rem;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 35%;
+}
+.conatiner-opac {
+  font-family: arial;
+  background: transparent;
+  margin: 0 auto;
+  margin-top: 15vh;
+  height: 35rem;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 35%;
+  opacity: 0.1; 
+}
+.alertDiv{
+  font-family: arial;
+  background: transparent;
+  margin: 0 auto;
+  margin-top: -20rem;
+  position: sticky;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 35%
+}
