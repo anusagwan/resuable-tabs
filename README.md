@@ -1,5 +1,9 @@
 Live Demo : 'https://resuabletabs.netlify.app/'
 
+A resuable tabs with drag and drop functionality with out appropriate alert modal on certain actions.
+Built the resuable tabs and resuable modal alerts with only HTML/CSS/JS and React.js.
+No external library used for CSS or drag and drop functionality
+
 
 # Getting Started with Create React App
 
